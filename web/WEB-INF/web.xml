@@ -5,7 +5,7 @@
          version="4.0">
     <servlet>
         <servlet-name>AgeCalculatorServlet</servlet-name>
-        <servlet-class>AgeCalculatorServlet</servlet-class>
+        <servlet-class>servlets.AgeCalculatorServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>AgeCalculatorServlet</servlet-name>
@@ -13,7 +13,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>ArithmeticCalculatorServlet</servlet-name>
-        <servlet-class>ArithmeticCalculatorServlet</servlet-class>
+        <servlet-class>servlets.ArithmeticCalculatorServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ArithmeticCalculatorServlet</servlet-name>
